@@ -1,1 +1,5 @@
 ajustando o arquivo
+
+Essa alteração precisou do Merge
+
+Estou gostando de aprender gerenciamento de versões
